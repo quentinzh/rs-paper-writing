@@ -1,5 +1,7 @@
 # Skills: Recommender Systems Paper Writing
 
+[English](./README.md) | [中文](./README_zh.md)
+
 This repository provides one Codex skill for writing and revising recommender-system research papers.
 
 The skill is adapted for papers targeting venues such as KDD, SIGIR, WWW, AAAI, ACL, RecSys, CIKM, and WSDM. It covers general recommender-system writing as well as LLM-based recommendation, fairness/debiasing/causal recommendation, sequential recommendation, retrieval, ranking, and evaluation-focused revision.
