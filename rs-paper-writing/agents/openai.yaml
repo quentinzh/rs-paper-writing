@@ -1,0 +1,4 @@
+interface:
+  display_name: "RS Paper Writing"
+  short_description: "Recommender-system paper writing and section-level refinement"
+  default_prompt: "Use $rs-paper-writing to improve my recommender-system paper's structure, flow, and reviewer-facing clarity."
