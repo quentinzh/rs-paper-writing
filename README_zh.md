@@ -92,4 +92,4 @@ cp -R rs-paper-writing "$HOME/.gemini/skills/"
 
 ## 许可证
 
-本项目采用 MIT License，详见 [LICENSE](./LICENSE)。
+许可证条款以 [LICENSE](./LICENSE) 文件为准。

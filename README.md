@@ -92,4 +92,4 @@ Then ask concrete tasks such as rewriting an Abstract with claim-evidence checks
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](./LICENSE).
+See [LICENSE](./LICENSE) for the license terms.
